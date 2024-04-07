@@ -1,0 +1,3 @@
+The deployment of hello-world app is misconfigured with the health check path.
+Initially, it is set to /nginx_status. While the correct path should be /healthz.
+Update the liveness probe path fix the issue.

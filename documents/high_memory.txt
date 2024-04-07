@@ -1,0 +1,2 @@
+NAMESPACE     NAME                                  CPU(cores)   MEMORY(bytes)
+udacity       hello-world-86cc7df864-zhbr5          2m           19Mi
